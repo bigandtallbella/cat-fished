@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 .vs/cat-fished/FileContentIndex/d4c9a7b8-7b23-483f-a7f7-82b711acd6f4.vsidx
 .vs/cat-fished/FileContentIndex/5d768de6-688c-40f3-b930-f6ac3cb8f02b.vsidx
+*.vsidx
